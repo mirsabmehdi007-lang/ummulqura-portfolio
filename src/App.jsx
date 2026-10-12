@@ -94,7 +94,7 @@ export default function App() {
     <>
       <div className="bar" style={{ width: `${pct}%` }} />
       <header className="nav">
-        <a className="logo" href="#top">Ummul<span>.</span></a>
+        <a className="logo" href="#top">Ummul Qura<span>.</span></a>
         <nav><a href="#work">Work</a><a href="#about">About</a><a href="#experience">Experience</a><a href="#skills">Skills</a><a className="pill" href="#contact">Let's Talk</a></nav>
       </header>
 
